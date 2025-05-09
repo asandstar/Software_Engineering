@@ -233,41 +233,25 @@ Be deliberate (and ideally explicit) about your philosophical stance
 
 Use the theory to guide the study design
 ## Summary
-- Without the theory, we have no way of making sense of the accumulation of empirical results.
-
-An individual study can never offer conclusive results.
-- Theories support analytical generalization
-
-provide a deeper understanding of our empirical results
-
-hence know how they apply more generally
-
-Much more powerful than statistical generalization
+- Without the theory, we have no way of making sense of the accumulation of empirical results.<br>
+An individual study can never offer conclusive results.<br>
+- Theories support analytical generalization<br>
+provide a deeper understanding of our empirical results<br>
+hence know how they apply more generally<br>
+Much more powerful than statistical generalization<br>
 ## Strategies To Overcome Weaknesses
-Theory-building
-
-1.Theory-building
-
-Testing a hypothesis is pointless(single flawed study!)
-
-unless it **builds evidence for a clearly stated theory**
-
-2.Empirical induction
-
-Series of studies over time
-
-Each designed to probe more aspects of the theory
-
+Theory-building<br>
+1.Theory-building<br>
+Testing a hypothesis is pointless(single flawed study!)<br>
+unless it **builds evidence for a clearly stated theory**<br>
+2.Empirical induction<br>
+Series of studies over time<br>
+Each designed to probe more aspects of the theory<br>
+together **build evidence for a clearly stated theory**<br>
+3.Mixed-methods research<br>
+Use multiple methods to investigate the same research question<br>
+Each method compensates for the flaws of the others<br>
 together **build evidence for a clearly stated theory**
-
-3.Mixed-methods research
-
-Use multiple methods to investigate the same research question
-
-Each method compensates for the flaws of the others
-
-together **build evidence for a clearly stated theory**
-
 【【精译⚡软件工程】卡耐基梅隆大学•17-803•2021】 【精准空降到 28:37】 https://www.bilibili.com/video/BV1kvcWecEyU/?p=4&share_source=copy_web&vd_source=e9d67ecc6775d595879efd0a7d60d332&t=1717 
 
 
