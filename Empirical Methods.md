@@ -119,9 +119,9 @@ Conventional: meaning is agreeed upon, will continue to exist only if enforced b
  ## Take-Aways(2)
  Harder to fake badges provide more reliable signals<br>
  As signaling theory predicts<br>
-<img src="image-1.png" alt="alt text" width="300"/>
+<img src="image-1.png" alt="alt text" width="150"/><br>
  Redesign badges as assessment signals<br>
-<img src="image-2.png" alt="alt text" width="300"/>
+<img src="image-2.png" alt="alt text" width="300"/><br>
 ## Why Build a Tool?
 - Build a Tool to Test a Theory<br>
 Tool is part of the experimental materials needed to conduct your study<br>
