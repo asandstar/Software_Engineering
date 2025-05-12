@@ -53,3 +53,5 @@ It's kind of closely related to these sort of old school size of control ideas w
 ## L22 Multi-Body Dynamics in Maximal Coordinates
 
 ## L23 Fast Dynamics Algorithms
+
+I am not interested in this topic
