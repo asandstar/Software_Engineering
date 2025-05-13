@@ -222,3 +222,4 @@ IKEA:multimodal retrieval (G1)
 ## Lecture 5.1:Multimodal Transformers(Part 1)
 
 ## Lecture 5.2:Structured Representations and Reasoning
+
