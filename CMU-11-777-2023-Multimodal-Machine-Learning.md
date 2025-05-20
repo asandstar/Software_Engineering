@@ -159,41 +159,41 @@ Multimodal deep learning [ICML 2011]<br>
 - Multimodal Learning with Deep Boltzmann Machines [NIPS 2012]<br>
 - Visual attention:Show,Attend and Tell:Neural Image Caption<br>
 - Generation with Visual Attention [ICML 2015]<br>
-Key enablers for multimodal research:
+Key enablers for multimodal research:<br>
 - New large-scale multimodal datasets
 - Faster computer and GPUS
 - High-level visual features
 - "Dimensional"linguistic features
 ### Real world tasks tackled by Multimodal ML
-A.Affect recognition
+A.Affect recognition<br>
 - Emotion
 - Personalities
 - Sentiment
-B.Media description
+B.Media description<br>
 - Image and video captioning
-C.Multimodal QA
+C.Multimodal QA<br>
 - Image and video QA
 - Visual reasoning
-D.Multimodal Navigation
+D.Multimodal Navigation<br>
 - Language guided navigation
 - Autonomous driving
-E.Multimodal Dialog
+E.Multimodal Dialog<br>
 - Grounded dialog
-F.Event recognition
+F.Event recognition<br>
 - Action recognition
 - Segmentation
-G.Multimedia information retrieval
+G.Multimedia information retrieval<br>
 - Content based/Cross-media
 ### A Curated List of Multimodal Datasets
-MOSEI:Sentiment and Emotion (A6)
-Social-IQ:Modeling Social Interaction (A10)
-MELD:multi-party dialogue and emotions (A11,E)
-TVQA:Video Understanding(C7)
-NLVR2:Natural Language Grounding Reasoning(C10)
-WebQA:Multi-hop visual and test reasoning (C20)
-Room-Across-Room:Navigation(D10)
-Winoground:Compositionality (D11)
-IKEA:multimodal retrieval (G1)
+MOSEI:Sentiment and Emotion (A6)<br>
+Social-IQ:Modeling Social Interaction (A10)<br>
+MELD:multi-party dialogue and emotions (A11,E)<br>
+TVQA:Video Understanding(C7)<br>
+NLVR2:Natural Language Grounding Reasoning(C10)<br>
+WebQA:Multi-hop visual and test reasoning (C20)<br>
+Room-Across-Room:Navigation(D10)<br>
+Winoground:Compositionality (D11)<br>
+IKEA:multimodal retrieval (G1)<br>
 ### Some Advice About Multimodal Datasets
 - Text,speech,audio,video
   - Space will become an issue working with image/video data
@@ -202,13 +202,32 @@ IKEA:multimodal retrieval (G1)
   - Won't be able to store it all in memory
 - Time to extract features and train algorithms will also become an issue
 - Plan accordingly!
-  - Sometimes tricky to experiment on a laptop(might need to do it on a subset of data)
-5/13/2025
+  - Sometimes tricky to experiment on a laptop(might need to do it on a subset of data)<br>
+5/13/2025<br>
 ## Lecture 2.1:Unimodal Representations
-
+Lecture Objectives
+- Unimodal basic representations
+- Dimension of heterogeneity
+- Image representations
+	- Image gradients,edges,kernels
+- Convolution neural network(CNN)
+	- Convolution and pooling layers
+- Visualizing CNNs
+- Region-based CNNs<br>
+![alt text](image-34.png)
 
 ## Lecture 2.2:Unimodal Representations (Part 2)
-
+Lecture Objectives
+- Word representations
+	- Distributional hypothesis
+	- Learning neural representations
+- Sentence representations and sequence modeling
+	- Recurrent neural networks
+	- Language models
+- Syntax and language structure
+	- Phrase-structure and dependency grammars
+	- Recursive neural network
+		- Tree-based RNN<br>
 
 ## Lecture 3.2:Multimodal Representation Fusion
 
