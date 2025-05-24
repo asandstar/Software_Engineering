@@ -230,6 +230,10 @@ Lecture Objectives
 		- Tree-based RNN<br>
 
 ## Lecture 3.2:Multimodal Representation Fusion
+Pre-proposals due tomorrow<br>
+
+
+
 
 
 ## Lecture 3.2:Multimodal Coordination and Fission
